@@ -33,29 +33,23 @@ O jogador escolhe uma carta e enfrenta o computador em duelos rápidos, com plac
 
 ## 🕹️ Gameplay
 
--  O jogador recebe 5 cartas aleatórias.  
 
--  Ao clicar em uma carta:  
-
-  *  Ela é revelada no campo do jogador.  
-
-  *  O computador revela uma carta aleatória.  
-
-  *  O resultado do duelo é mostrado no botão (Ganhou, Perdeu, Empate).  
-
--  O placar é atualizado automaticamente:  
-
-  *  Win : X | Lose : Y  
+  - O jogador recebe 5 cartas aleatórias
+  - Ao clicar em uma carta:
+    - Ela é revelada no campo do jogador
+    - O computador revela uma carta aleatória
+    - O resultado do duelo é mostrado no botão (Ganhou, Perdeu, Empate)
+  - O placar é atualizado automaticamente:
+    - Win : X
+    - Lose : Y  
 
 ## 🛠️ Tecnologias  
 
--  HTML5 para estrutura.  
 
--  CSS3 para estilos e frames inspirados em RPG.  
-
--  JavaScript para lógica do jogo.  
-
--  Google Fonts (Press Start 2P) para estilo retrô.  
+  - HTML5 para estrutura
+  - CSS3 para estilos e frames inspirados em RPG
+  - JavaScript (ES6) para lógica do jogo
+  - Google Fonts (Press Start 2P) para estilo retrô 
 
 
 ## 📜 Licença  

@@ -37,17 +37,17 @@ O jogador escolhe uma carta e enfrenta o computador em duelos rápidos, com plac
 
 -  Ao clicar em uma carta:  
 
-  -  Ela é revelada no campo do jogador.  
+  *  Ela é revelada no campo do jogador.  
 
-  -  O computador revela uma carta aleatória.  
+  *  O computador revela uma carta aleatória.  
 
-  -  O resultado do duelo é mostrado no botão (Ganhou, Perdeu, Empate).  
+  *  O resultado do duelo é mostrado no botão (Ganhou, Perdeu, Empate).  
 
 -  O placar é atualizado automaticamente:  
 
-  -  Win : X | Lose : Y  
+  *  Win : X | Lose : Y  
 
-##🛠️ Tecnologias  
+## 🛠️ Tecnologias  
 
 -  HTML5 para estrutura.  
 
@@ -58,7 +58,7 @@ O jogador escolhe uma carta e enfrenta o computador em duelos rápidos, com plac
 -  Google Fonts (Press Start 2P) para estilo retrô.  
 
 
-##📜 Licença  
+## 📜 Licença  
 
 Este projeto foi realizado via curso da DIO e é de uso livre para fins de estudo e diversão.  
 Sinta-se à vontade para modificar e compartilhar.
